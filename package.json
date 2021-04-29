@@ -1,0 +1,18 @@
+{
+  "name": "node1",
+  "homepage": "https://AndreyNazarov.github.io/node1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "contacts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Andrey <nazarov.andrew.17@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
